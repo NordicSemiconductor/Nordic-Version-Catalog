@@ -63,7 +63,7 @@ dependencies {
         api(libs.mcumgr.ble)
         api(libs.log)
         api(libs.log.timber)
-        api(libs.kotlin.data)
+        api(libs.data)
         api(libs.core)
         api(libs.ui)
         api(libs.theme)
