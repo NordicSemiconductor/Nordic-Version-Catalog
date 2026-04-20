@@ -1,5 +1,5 @@
 [versions]
-blek = "2.0.0-alpha18"
+blek = "2.0.0-alpha19"
 ble = "2.11.0"
 dfu = "2.11.0"
 log = "2.5.0"
